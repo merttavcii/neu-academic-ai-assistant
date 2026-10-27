@@ -1,0 +1,23 @@
+# Gizli bilgiler
+.env
+_env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Yerel veri
+chroma_db/
+data/*
+!data/.gitkeep
+quiz_audit_output.txt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+*.log
+chroma.sqlite3
