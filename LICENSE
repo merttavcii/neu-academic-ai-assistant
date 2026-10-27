@@ -1,65 +1,21 @@
 MIT License
 
-Copyright (c) 2026 <MERT AVCI>
+Copyright (c) 2026 MERT AVCI
 
-1. Ownership
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-All rights, title, and interest in and to the original source code, software, documentation, designs, and other materials contained in this repository (collectively, the "Software") are reserved by the copyright holder, except for third-party components governed by their own licenses.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. Permission to View
-
-Permission is granted to access, view, and read the Software through this public repository solely for personal inspection and evaluation.
-
-This limited permission does not constitute a license to use, reproduce, modify, distribute, or commercially exploit the Software.
-
-3. Restrictions
-
-Without the prior express written permission of the copyright holder, you may not:
-
-Copy, reproduce, or reuse any substantial portion of the Software.
-
-Modify, adapt, translate, or create derivative works based on the Software.
-
-Publish, redistribute, sublicense, sell, rent, lease, or otherwise commercially exploit the Software or any derivative work.
-
-Incorporate the Software into another application, product, platform, or service.
-
-Deploy, host, or offer the Software or a modified version as a commercial or public service.
-
-Remove or alter copyright notices, proprietary notices, or attribution information.
-
-Make the Software available to third parties in a manner that violates these terms.
-
-4. No General License Granted
-
-Except for the limited right to view the Software described in Section 2, no license or other permission is granted under any copyright, trademark, patent, or other intellectual property right owned by the copyright holder, except where such permission cannot lawfully be excluded.
-
-5. Third-Party Components
-
-The Software may incorporate third-party libraries, models, APIs, datasets, or other components. Such components remain subject to their respective licenses and terms. This license does not override or restrict rights independently granted by third-party licensors.
-
-6. Requests for Permission
-
-Requests to use, modify, redistribute, integrate, or commercially exploit the Software may be submitted to the copyright holder. Any additional permission must be expressly granted in writing.
-
-7. Disclaimer of Warranty
-
-The Software is provided "AS IS", without warranty of any kind, express or implied, to the maximum extent permitted by applicable law. The copyright holder shall not be liable for claims or damages arising from the use of the Software, except where liability cannot lawfully be excluded.
-
-8. Termination
-
-Any permission granted under this license terminates automatically if its terms are violated, subject to applicable law. Upon termination, the recipient must cease any activity that is no longer authorized.
-
-9. Governing Law
-
-This license shall be interpreted in accordance with applicable law. Any determination of governing law or jurisdiction shall be subject to applicable legal requirements.
-
-10. Reservation of Rights
-
-All rights not expressly granted under this license are reserved by the copyright holder.
-
-This is a proprietary, source-available license. It is not an open-source license and does not grant general permission to use, modify, or redistribute the Software.
-
-MERT AVCI
-Full-Stack AI & Software Developer
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
